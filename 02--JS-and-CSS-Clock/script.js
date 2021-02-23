@@ -2,7 +2,7 @@ const hoursHandContainer = document.querySelector( '.hours-hand-container' )
 const minutesHandContainer = document.querySelector( '.minutes-hand-container' )
 const secondsHandContainer = document.querySelector( '.seconds-hand-container' )
 
-const setTime = function () {
+const setTime = () => {
 	const currentTime = new Date()
 	const hours = currentTime.getHours()
 	const minutes = currentTime.getMinutes()
