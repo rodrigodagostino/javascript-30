@@ -145,9 +145,7 @@ const data = [
 	'truck',
 ]
 const transportationInstances = data.reduce( ( obj, item ) => {
-	if ( ! obj[item] ) {
-		obj[item] = 0
-	}
+	if ( ! obj[item] ) obj[item] = 0
 	obj[item]++
 	return obj
 }, {} ) 
