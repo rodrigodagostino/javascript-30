@@ -6,3 +6,4 @@ In this repository are being published my attempts to the [100 Days CSS Challeng
 2. [JS and CSS Clock](https://rodrigodagostino.github.io/javascript-30/02--JS-and-CSS-Clock/)
 3. [CSS Variables](https://rodrigodagostino.github.io/javascript-30/03--CSS-Variables/)
 4. [Array Cardio Day 1](https://rodrigodagostino.github.io/javascript-30/04--Array-Cardio-Day-1/)
+5. [Flex Panel Gallery](https://rodrigodagostino.github.io/javascript-30/05--Flex-Panel-Gallery/)
