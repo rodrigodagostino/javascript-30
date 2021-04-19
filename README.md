@@ -9,3 +9,4 @@ In this repository are being published my attempts to the [100 Days CSS Challeng
 5. [Flex Panel Gallery](https://rodrigodagostino.github.io/javascript-30/05--Flex-Panel-Gallery/)
 6. [Type Ahead](https://rodrigodagostino.github.io/javascript-30/06--Type-Ahead/)
 7. [Array Cardio Day 2](https://rodrigodagostino.github.io/javascript-30/07--Array-Cardio-Day-2/)
+8. [Fun with HTML Canvas](https://rodrigodagostino.github.io/javascript-30/08--Fun-with-HTML-Canvas/)
